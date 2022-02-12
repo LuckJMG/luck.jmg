@@ -1,0 +1,30 @@
+{
+  "name": "www.luck.jmg",
+  "version": "0.0.1",
+  "description": "Personal portfolio website, where I blog about my progress of my career and update my status in my projects.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node src/main.js",
+    "prettier": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckJMG/www.luck.jmg.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web"
+  ],
+  "author": "LuckJMG <25126199+LuckJMG@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuckJMG/www.luck.jmg/issues"
+  },
+  "homepage": "https://github.com/LuckJMG/www.luck.jmg#readme",
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "prettier": "2.5.1"
+  }
+}
